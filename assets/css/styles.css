@@ -1,0 +1,46 @@
+body {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  /* background-color: #eee; */
+}
+
+.logo{
+  width: 150px;
+  height: 150px;
+}
+#form-signin {
+  margin-top: 30px;
+  padding: 0px 35px 0px 35px;
+}
+.form-signin .form-signin-heading,
+.form-signin .checkbox {
+  margin-bottom: 40px;
+}
+.form-signin .checkbox {
+  font-weight: normal;
+}
+
+.form-signin .form-control:focus {
+  z-index: 2;
+}
+#inputUsername,#inputPassword,.btn{
+  margin-bottom: 30px;
+  border-radius: 0;
+}
+.btn{
+  cursor: pointer;
+  border-radius: 0;
+}
+
+.photo{
+  padding-top: 17%;
+  border-radius: 100%;
+  height: 100px;
+  line-height: 100px;
+  width: 100px;
+  border: 2px solid grey; 
+}
+
+.photo i{
+  font-size: 55px;
+}
